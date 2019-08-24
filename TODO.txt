@@ -1,0 +1,27 @@
+1. Download TIC-80 application
+Windows : https://github.com/nesbox/tic.computer/releases/download/v0.70.6/tic80_0.70.6.zip
+Linux 64-bit : https://github.com/nesbox/tic.computer/releases/download/v0.70.6/tic80_0.70.6.tar.gz
+Mac OS X : https://github.com/nesbox/tic.computer/releases/download/v0.70.6/tic80_0.70.6.dmg
+Android : https://github.com/nesbox/tic.computer/releases/download/v0.70.6/tic80_0.70.6.apk
+
+2. Download your zip file
+Link: https://drive.google.com/open?id=1y7bPFpuPsJEhR_zXfqz9SR1rgxePweNp
+
+3. Extract your zip file
+
+4. Go to folder Star16 palette for TIC-80\TIC-80 cartridge
+
+5. Select 2 TIC-80 cartridges
+
+6. Copy 2 TIC-80 cartridge
+
+7. Go to \AppData\Roaming\com.nesbox.tic\TIC-80
+
+8. Paste your TIC-80 cartridge
+
+9. Open your TIC-80
+
+10. load your file
+TIC-80 command "load Star16 palette demo.tic" or "surf"
+
+11. type "run"
