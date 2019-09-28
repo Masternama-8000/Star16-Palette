@@ -19,7 +19,7 @@
 
 -- title:  Star16 palette demo
 -- author: masternama
--- script: lua
+-- script: lua 
 
 t=0
 x=96
