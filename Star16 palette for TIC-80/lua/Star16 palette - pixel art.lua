@@ -20,7 +20,7 @@
 -- title:  Star16 palette - Picture art
 -- author: masternama
 -- desc:   I have a 5 pictures. Press left <- or Right -> to next page.
--- script: lua
+-- script: lua 
 
 state=0 -- Load state
 t=0
